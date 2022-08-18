@@ -22,7 +22,7 @@ function HandelSh(event) {
 }
 // ████████████████████████████████████████████████████████████
 // add a event to our asign buttom 
-barabar.addEventListener("click", HandelAsign);
+Asign.addEventListener("click", HandelAsign);
 // ████████████████████████████████████████████████████████████
 // this function handeled the asign buttom
 function HandelAsign() {
